@@ -3,3 +3,10 @@ Hi this is from another repositories
 
 
 second commit
+
+
+
+
+after opening the vs code after closing the previous one with different repositories
+
+
